@@ -21,5 +21,5 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to know mor
 
 - Clone the starter
   ```sh
-    git clone [https://github.com/LazyVim/starter](https://github.com/LICF01/lazy_nvim) ~/.config/nvim
+    git clone https://github.com/LICF01/lazy_nvim ~/.config/nvim
   ```
