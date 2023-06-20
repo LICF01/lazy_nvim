@@ -17,7 +17,7 @@ return {
       },
       colors = {
         onedark = {
-          bg = "#242933",
+          bg = "#282C34",
         },
       },
     },

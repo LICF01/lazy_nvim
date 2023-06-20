@@ -20,6 +20,7 @@ return {
         "yaml",
         "astro",
         "prisma",
+        "css",
       }
       opts.autotag = {
         enable = true,
